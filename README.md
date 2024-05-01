@@ -17,12 +17,12 @@ conda create -p venv python==3.9 -y
 conda activate venv
 ```
 
-**Step 3**: Install all the packages in the virtual envirnonment using the following command.
+**Step 4**: Install all the packages in the virtual envirnonment using the following command.
 ```
 pip install requirements.txt
 ```
 
-**Step 4**: After installing all necessary packages, use the command to launch your Streamlit application.
+**Step 5**: After installing all necessary packages, use the command to launch your Streamlit application.
 ```
 streamlit run app.py
 ```
